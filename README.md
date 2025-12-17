@@ -57,6 +57,15 @@ Dataset dikumpulkan secara mandiri (*Custom Dataset*) melalui teknik *web scrapi
 ---
 
 ## 📊 Results & Analysis
+1. CNN from scratch
+<img width="656" height="535" alt="image" src="https://github.com/user-attachments/assets/af64adf6-46db-4d1a-b84f-7a7caf682857" />
+
+2. Resnet + Praproses
+<img width="596" height="523" alt="image" src="https://github.com/user-attachments/assets/40906b0a-d01c-427d-8a82-61827a22eb1b" />
+
+3. Resnet Tanpa Praproses
+<img width="712" height="586" alt="image" src="https://github.com/user-attachments/assets/a400c4f7-98bc-4613-b8b6-276fe07b7129" />
+
 
 Berikut adalah perbandingan performa dari ketiga skenario:
 
