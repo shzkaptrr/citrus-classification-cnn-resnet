@@ -16,7 +16,7 @@ Membedakan jenis jeruk secara visual bisa menjadi tantangan karena kemiripan war
 
 ## 📂 Dataset
 
-Dataset dikumpulkan secara mandiri (*Custom Dataset*) melalui teknik *web scraping* dari berbagai sumber (Google Images, Shutterstock, E-Commerce, dll) dan dibersihkan secara manual.
+Dataset dikumpulkan secara mandiri (*Custom Dataset*) baik melalui teknik *web scraping* maupun download manual dari berbagai sumber (Google Images, Shutterstock, E-Commerce, dll) dan dibersihkan secara manual.
 
 * **Total Citra:** 1.002 Gambar.
 * **Distribusi:** Seimbang (*Balanced*), ~334 gambar per kelas.
