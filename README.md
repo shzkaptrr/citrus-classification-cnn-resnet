@@ -91,7 +91,7 @@ Berikut adalah perbandingan performa dari ketiga skenario:
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/username-kamu/citrus-classification-cnn-resnet.git
+https://github.com/shzkaptrr/citrus-classification-cnn-resnet.git
 
 ```
 
