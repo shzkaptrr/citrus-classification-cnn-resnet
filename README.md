@@ -1,9 +1,3 @@
-Ini adalah struktur konten **README.md** yang standar dan profesional untuk *Data Science/Machine Learning Project*. Struktur ini akan membuat repository kamu terlihat seperti *mini-research paper* yang sangat disukai rekruter.
-
-Kamu bisa langsung **Copy-Paste** template di bawah ini, lalu sesuaikan bagian dalam kurung siku `[...]` dengan link gambar atau nama kamu.
-
----
-
 # 🍊 Comparative Analysis: CNN vs ResNet50 for Citrus Classification
 
 Project ini bertujuan untuk membandingkan performa arsitektur **CNN from Scratch** dengan **Transfer Learning (ResNet50)** dalam mengklasifikasikan 3 jenis jeruk lokal yang memiliki kemiripan visual tinggi: **Jeruk Nipis, Jeruk Purut, dan Jeruk Limau**.
